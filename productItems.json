@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Realme 8",
+    "price": 16999,
+    "rating": 4.1,
+    "feature": false,
+    "company": "Realme"
+  },
+  {
+    "name": "iphone 8",
+    "price": 65999,
+    "rating": 4.2,
+    "company": "Apple"
+  },
+  {
+    "name": "Samsung s11",
+    "price": 31599,
+    "rating": 4.6,
+    "company": "Samsung"
+  },
+  {
+    "name": "iphone 11",
+    "price": 90199,
+    "rating": 4.6,
+    "company": "Apple"
+  },
+  {
+    "name": "iphone 12",
+    "price": 80799,
+    "rating": 4.5,
+    "company": "Apple"
+  },
+  {
+    "name": "Realme c3",
+    "price": 10000,
+    "feature": false,
+    "company": "Realme"
+  },
+  {
+    "name": "Vivo Y1",
+    "price": 21999,
+    "feature": false,
+    "company": "Vivo"
+  },
+  {
+    "name": "Samsung s1",
+    "price": 61999,
+    "company": "Samsung"
+  },
+  {
+    "name": "Oppo i2",
+    "price": 40999,
+    "company": "Oppo"
+  },
+  {
+    "name": "Oppo x56",
+    "price": 45999,
+    "feature": false,
+    "company": "Oppo"
+  },
+  {
+    "name": "One Pluse 9",
+    "price": 28999,
+    "rating": 4.2,
+    "company": "Oneplus"
+  },
+  {
+    "name": "OnePluse 10pro",
+    "price": 30999,
+    "rating": 4.8,
+    "company": "Oneplus"
+  },
+  {
+    "name": "OnePluse Norde 2",
+    "price": 21999,
+    "rating": 4.5,
+    "feature": false,
+    "company": "Oneplus"
+  },
+  {
+    "name": "Realme 10pro",
+    "price": 19999,
+    "rating": 4.7,
+    "company": "Realme"
+  },
+  {
+    "name": "Vivo Y56",
+    "price": 21999,
+    "rating": 4.1,
+    "company": "Vivo"
+  },
+  {
+    "name": "Infinix Hot10",
+    "price": 21999,
+    "rating": 4.1,
+    "company": "Infinix"
+  },
+  {
+    "name": "Infinix Note10",
+    "price": 21999,
+    "rating": 4.1,
+    "company": "Infinix"
+  },
+  {
+    "name": "Infinix Note12 5G",
+    "price": 21999,
+    "rating": 4.1,
+    "company": "Infinix"
+  },
+  {
+    "name": "iphone 14 pro max",
+    "price": 21999,
+    "rating": 4.1,
+    "company": "Apple"
+  }
+]
